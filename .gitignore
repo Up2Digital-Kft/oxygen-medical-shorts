@@ -1,0 +1,23 @@
+# Mac / Windows rendszerfájlok
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / szerkesztő fájlok
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Ideiglenes fájlok
+*.log
+*.tmp
+*.bak
+*~
+
+# Függőségek (ha később lenne)
+node_modules/
+vendor/
+
+# Build artifactok
+*.zip
